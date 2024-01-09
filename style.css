@@ -36,3 +36,26 @@
     margin-top: 16px;
     filter: opacity(140%);
 }
+.sixty-off{
+    margin-top: 50px;
+    text-align: center;
+    font-family: Inter;
+}
+.discount{
+    color: #F00;
+    font-size: 70px;
+    font-weight: 700;
+}
+.descrip{
+    margin-top: 20px;
+    color: #F00;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+}
+.catagory{
+    margin-top: 15px;
+    color: #070211;
+    font-size: 32px;
+    font-weight: 700;
+}
