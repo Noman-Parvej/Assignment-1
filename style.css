@@ -70,3 +70,225 @@
     background-size: contain;
     border:0%;
 }
+.nyear-party{
+    height: 400px;
+    width: 75%;
+    border: 0%;
+    background-color: azure;
+    background-image: url("/Assignment-one/Images/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 50px 140px 0px 140px;
+}
+.group-sev{
+    height: 250px;
+    width: 200px;
+    background: none;
+    padding: 15px 15px 5px 620px;
+    margin-top: 90px;
+}
+.date-info{
+    height: 300px;
+    width: 75%;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 50px 140px 0px 140px;
+    background-color: rgb(215, 212, 213);
+}
+.basic-info{
+    height: 120px;
+    width: 300px;
+    border: 2px solid red;
+    margin: 80px 380px 200px 380px;
+}
+.coming-soon{
+    height: 250px;
+    width: 75%;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 50px 140px 0px 140px;
+    background-color:#FFF;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.outer-circle{
+    height: 240px;
+    width: 220px;
+    border: 5px solid red;
+    /* margin-left: 400px; */
+    /* border-radius: 50%; */
+}
+.sec-circle{
+    height: 200px;
+    width: 80%;
+    border: 2px solid black;
+    /* margin-top: 25px;
+    margin-left: 18px;
+    margin-right: 48x; */
+    /* border-radius: 50%; */
+    background-image: url("/Assignment-one/Images/Ellipse\ 1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+
+}
+.year-an{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.text-port{
+    margin: 50px 0px 0px 140px;
+}
+.best-gift{
+    color: #F00;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+.awesome{
+    margin-top: 10px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 700;
+}
+.dolor{
+    margin-top: 14px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 300;
+    background: none;
+}
+.box-select{
+        height: 550px;
+        width: 60%;
+        border: 0%;
+        border-radius: 5px;
+        margin: 50px 220px 0px 140px;
+        background-color:#FFF;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        
+}
+.box{
+    height: 260px;
+    width: 245px;
+    border:0%;
+    border-radius: 2px;
+}
+.box :hover{
+    background-color: red;
+}
+
+.box1{
+    background-image: url('/Assignment-one/Images/Rectangle\ 3.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box2{
+    background-image: url('/Assignment-one/Images/Rectangle\ 4.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box3{
+    background-image: url('/Assignment-one/Images/Rectangle\ 5.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box4{
+    background-image: url('/Assignment-one/Images/Rectangle\ 6.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box5{
+    background-image: url('/Assignment-one/Images/Rectangle\ 7.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box6{
+    background-image: url('/Assignment-one/Images/Rectangle\ 8.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.sabscribes{
+    height: 300px;
+    width: 75%;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 50px 140px 0px 140px;
+    background: rgba(255, 0, 0, 0.05); 
+    /* display: flex;
+    align-items: center; 
+    justify-content: center; */
+}
+.group-six{
+    height: 80px;
+    background: none;
+    margin-left: 400px;
+    margin-top: 35px;
+}
+.news{
+    align-items: center;
+    text-align: center;
+    background: none;
+}
+.newsletter{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 900;
+    margin-top: 15px;
+    background: none;
+}
+.button-subs{
+    height: 30px;
+    width: 35%;
+    border: 2px solid black;
+    margin: 25px 300px 0px 300px;
+    
+}
+.user{
+    height: 30px;
+    width: 80%;
+    border: none;
+    background-color: #FFF;
+}
+.lower{
+    height: 500px;
+    width: 100%;
+    border: 2px solid black;
+    margin-top: 10px;
+    background-color: #070211;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFF;
+    text-align: center;
+}
+.home-add{
+    background: none;
+    margin-left: 80px;
+    margin-bottom: 220px;
+}
+.phone{
+    background: none;
+    margin-right: 80px;
+    margin-bottom: 220px;
+}
+.call, .website{
+    background: none;
+    height: 15px;
+}
+.icons{
+    align-items: center;
+    margin-right: 200px;
+}
